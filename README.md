@@ -9,7 +9,7 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - tweet progress each day on twitter.
 - the progress of each day will be updated in this repository inside a file named as the number of the day.
 
-###### Daily Challenges:
+###### Daily Challenges Log:
 
 - Day 1:
   - worked in a function that calculates how many secods are in an hour.
