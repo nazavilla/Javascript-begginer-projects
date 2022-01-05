@@ -17,3 +17,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 2:
   - Learned about recursive function, hasOwnProperties method to test objects for properties, and to access nested Objects: (dot notation, bracket notation).
   - Completed a small project: Rock, paper, scissor
+- Day 3:
+  - Learned about document object, properties and methods to change elements, attributes, style and react to events in a html page.
+    -Completed a small project: Login page that will ask user to enter info again after the button is click.
