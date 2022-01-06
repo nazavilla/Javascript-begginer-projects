@@ -20,3 +20,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 3:
   - Learned about document object, properties and methods to change elements, attributes, style and react to events in a html page.
     -Completed a small project: Login page that will ask user to enter info again after the button is click.
+- Day 4:
+  - Reviewed Objects, object prototypes, methods, and instances.
+  - started a project that will have the design of a mini school.
