@@ -26,3 +26,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 5:
   - Review local scopes vs local scopes.
   - Complete a mini project that ask user for a number between 1 - 10, as well as console.log if input is correct or incorrect.
+- Day 6:
+  - learned about classes, get and set methods, as well as instances,
+  - Completed a mini project: mini school and uploaded it in a different repository.
