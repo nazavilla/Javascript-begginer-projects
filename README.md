@@ -29,3 +29,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 6:
   - learned about classes, get and set methods, as well as instances,
   - Completed a mini project: mini school and uploaded it in a different repository.
+- Day 7:
+  - reviewed once more why are gettes and settes methods used.
+  - completed a mini project: Calculate user next birthday
