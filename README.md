@@ -37,4 +37,4 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
   - Completed a small project: Password Generator.
 - Day 9:
   - Started Backend course in codeAcademy.
-  - completed a small project: tip calculator
+  - completed a small project: tip calculator.
