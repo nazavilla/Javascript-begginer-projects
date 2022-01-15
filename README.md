@@ -32,3 +32,9 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 7:
   - reviewed once more why are gettes and settes methods used.
   - completed a mini project: Calculate user next birthday
+- Day 8:
+  - Learned about static keyword in classes.
+  - Completed a small project: Password Generator.
+- Day 9:
+  - Started Backend course in codeAcademy.
+  - completed a small project: tip calculator
