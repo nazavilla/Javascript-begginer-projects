@@ -16,8 +16,9 @@
         if (randomNumber === 3) {
         computerChoice = 'paper'
     }
-
-    function compare(choice1, choice2){
+    
+    //arrow Function
+    const compare = (choice1, choice2) => {
     //result
         if (choice1 == "rock" && choice2 == "paper"|
             choice1 == "paper" && choice2 == "scissor" |
