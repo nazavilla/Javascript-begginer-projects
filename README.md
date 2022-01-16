@@ -38,3 +38,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 9:
   - Started Backend course in codeAcademy.
   - completed a small project: tip calculator.
+- Day 10:
+  - Reviewed once more: truthy and falsy, as well as its short-circuit evaluation.
+  - Completed a small project: magic ball using switch conditional
