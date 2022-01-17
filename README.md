@@ -41,3 +41,6 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 10:
   - Reviewed once more: truthy and falsy, as well as its short-circuit evaluation.
   - Completed a small project: magic ball using switch conditional
+- Day 11:
+  - Completed 4 modules in CodeCademy.
+  - Learned about different types of functions (arrow function, expression function, declared function.) As well as concice body array function (number of parameters, single line block and multiline block).
