@@ -1,13 +1,13 @@
 //Magic ball using switch
-
+function MagicBall(){
 //user na,e
-let userName = promot('Insert your name here');
+let userName = 'Naz';
 console.log("Hello, "+userName);
 //user question
 let userQuestion = 'it the world ending?';
 console.log(`user: ${userName}, question: ${userQuestion}`);
 //random number
-let randomNumber = Math.floor(Math.random()*7);
+let randomNumber = Math.floor(Math.random() * 8);
 //set ball variable
 let eightBall = '';
 
@@ -37,4 +37,8 @@ switch(randomNumber){
     eightBall = 'Signs point to yes';
     break;
 }
+
 console.log(eightBall);
+
+}
+MagicBall();
