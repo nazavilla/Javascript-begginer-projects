@@ -44,3 +44,7 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 11:
   - Completed 4 modules in CodeCademy.
   - Learned about different types of functions (arrow function, expression function, declared function.) As well as concice body array function (number of parameters, single line block and multiline block).
+- Day 12:
+  -Module 5 in codeCademy. (7/15 basic JS challenges)
+- Day 13:
+  -completed module 5 in codeCademy (15/15 basic JS challenge)
