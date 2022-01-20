@@ -47,4 +47,7 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 12:
   -Module 5 in codeCademy. (7/15 basic JS challenges)
 - Day 13:
-  -completed module 5 in codeCademy (15/15 basic JS challenge)
+  - completed module 5 in codeCademy (15/15 basic JS challenge)
+- Day 14:
+  - designed score section to add to ROCK PAPER ANS SCISSOR PROGRAM created in day 2.
+  - Read about NodeJS.

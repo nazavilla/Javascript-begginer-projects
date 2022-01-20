@@ -1,7 +1,11 @@
 //Rock Paper Scissors
 
     //userchoice
-    let uOptions = prompt("You have three options, please write only one: \n Rock, Paper or Scissor: ").toLowerCase(); 
+    let uOptions = 'rock'; 
+    let userScore = 0;
+    let pcScore = 0;
+    let currentRoundNumber = 1;
+
 
     //computerChoice
     let computerChoice;
@@ -23,15 +27,27 @@
         if (choice1 == "rock" && choice2 == "paper"|
             choice1 == "paper" && choice2 == "scissor" |
             choice1 == "scissor" && choice2 == "rock" ) {
-                return "Machine wins this time";
+                userScore++;
+
         }
 
         else if(choice1 == "paper" && choice2 == "rock"|
                 choice1 == "scissor" && choice2 == "paper"|
                 choice1 == "rock" && choice2 == "scissor"){ 
-                    return "You won!";
+                pcScore++;
+
         }
     }
+        compare(uOptions, computerChoice);
         console.log("User choice: "+ uOptions);
         console.log("Computer choice: "+ computerChoice);
-        compare(uOptions, computerChoice);
+        console.log('User new Score: '+userScore);
+        console.log('Computer new Score: '+pcScore);
+
+//ROUNDS
+const advanceRound = () =>{
+    currentRoundNumber++;
+}
+
+advanceRound();
+console.log('Round: '+currentRoundNumber);
