@@ -51,6 +51,9 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 14:
   - designed score section to add to ROCK PAPER ANS SCISSOR PROGRAM created in day 2.
   - Read about NodeJS.
-    -Day 15:
+- Day 15:
   - completed new module on codecademy.
   - completed a small project: secret message.
+- Day 16:
+  - Completed a small project: whale talk;
+  - read about V8 engine
