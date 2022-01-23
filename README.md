@@ -57,3 +57,5 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 16:
   - Completed a small project: whale talk;
   - read about V8 engine
+- Day 17:
+  - completed a module in codecademy and 5 exercises in freecodecamp.
