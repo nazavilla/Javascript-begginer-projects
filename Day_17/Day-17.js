@@ -57,8 +57,8 @@ const menu = {
 
 }
 menu.addDishToCourse('appetizers', 'soup', 4.25);
-menu.addDishToCourse('mains', 'lamb shank', 12.75);
-menu.addDishToCourse('desserts', 'ice cream', 5);
+menu.addDishToCourse('mains', 'scrambled tofu', 12.75);
+menu.addDishToCourse('desserts', 'vegan ice cream', 5);
 
 
 let meal = menu.generateRandomMeal();
