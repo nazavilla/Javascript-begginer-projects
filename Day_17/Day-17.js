@@ -20,7 +20,7 @@ const menu = {
       return this._courses.desserts;
   }, 
     set desserts(dessertIn) {
-      this._courses.appetizers = dessertIn;
+      this._courses.desserts = dessertIn;
   },
   get courses() {
     return {
