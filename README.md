@@ -60,4 +60,5 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 17:
   - completed a module in codecademy and 5 exercises in freecodecamp.
 - Day 18:
-  -created another small project rock paper scissor simpler to help a tech twitter friend
+  -Reviewed Built-in Object Methods
+  -Reviewed freeCodeCamp and Codecademy
