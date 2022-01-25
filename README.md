@@ -62,3 +62,5 @@ Using 100 days of code challenge to learn and improve my skills in front-end.
 - Day 18:
   -Reviewed Built-in Object Methods
   -Reviewed freeCodeCamp and Codecademy
+  -Day 19:
+  -completed a small project: team statistics
